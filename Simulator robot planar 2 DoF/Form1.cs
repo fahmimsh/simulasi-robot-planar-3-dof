@@ -8,8 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 /*Program by:fahmi mashuri
-  source : https://github.com/fahmimsh/Simulator-robot-planar-2-DoF 
-  created time : 14/11/2020 */
+  source : https://github.com/fahmimsh/simulasi-robot-planar-3-dof 
+  created time : 20/11/2020 */
 namespace Simulator_robot_planar_2_DoF
 {
     public partial class Form1 : Form
